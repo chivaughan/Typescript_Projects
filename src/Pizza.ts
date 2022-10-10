@@ -1,0 +1,2 @@
+@Sauce('pesto')
+class Pizza { }
